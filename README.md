@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhijit49
-- 👀 I’m interested in Cloud Tech
-- 🌱 I’m currently learning GCP
+- 👀 I’m interested in Web Dev
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at https://www.linkedin.com/in/abhijitbhandary1001/
 
