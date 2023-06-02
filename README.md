@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Bhandary</h1>
+img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ"
+
 - 🌱 I’m currently learning **SQL, Python**
 
 - ⚡ Fun fact **As a data analyst, I have a dark secret. I know the true identity of Santa Claus. Turns out, he's not a jolly old man who delivers presents; he's actually just a highly efficient logistics algorithm with a red suit. Sorry to ruin the magic, but hey, at least he never misses a delivery deadline!**
