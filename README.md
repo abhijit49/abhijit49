@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Bhandary</h1>
-img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVkNjVkNWVlN2M2Mz"
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/206755/screenshots/2387113/upgrade-premium-animation-dribbble.gif"
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **SQL, Python**
