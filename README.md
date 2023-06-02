@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Bhandary</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.webp">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 
 - 🌱 I’m currently learning **SQL, Python**
 
